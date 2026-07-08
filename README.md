@@ -1,7 +1,5 @@
 <img width="1140" height="804" alt="изображение" src="https://github.com/user-attachments/assets/6903b838-bdab-4369-8afb-dbc705913380" />
-
-
-<img width="553" height="891" alt="изображение" src="https://github.com/user-attachments/assets/856cc217-0cd2-45e4-aa8a-50ffbee5096d" />
+<img width="1117" height="904" alt="Screenshot_444" src="https://github.com/user-attachments/assets/66bfd138-b3a9-4c4b-824e-37a412ea95be" />
 
 
  
