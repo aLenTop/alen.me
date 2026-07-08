@@ -1,7 +1,8 @@
 <img width="1140" height="804" alt="изображение" src="https://github.com/user-attachments/assets/6903b838-bdab-4369-8afb-dbc705913380" />
 
 
-<img width="504" height="868" alt="изображение" src="https://github.com/user-attachments/assets/a52d489b-b9fe-4a7d-9577-1eb60862cb92" />
+<img width="553" height="891" alt="изображение" src="https://github.com/user-attachments/assets/856cc217-0cd2-45e4-aa8a-50ffbee5096d" />
+
 
  
  = скрин меню "Настройки" =
