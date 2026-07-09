@@ -13,7 +13,6 @@
 
 <img width="572" height="442" alt="изображение" src="https://github.com/user-attachments/assets/8462b5a2-8b62-473c-8e4f-f4173c412235" />
 
-= скрин меню "Таймера" =
 
 <img width="3840" height="2708" alt="64" src="https://github.com/user-attachments/assets/f702a3ed-ff89-4ae8-a54f-0bf69c067868" />
 
