@@ -1,26 +1,10 @@
 <img width="1140" height="804" alt="изображение" src="https://github.com/user-attachments/assets/6903b838-bdab-4369-8afb-dbc705913380" />
 <img width="1117" height="904" alt="Screenshot_444" src="https://github.com/user-attachments/assets/66bfd138-b3a9-4c4b-824e-37a412ea95be" />
-
- 
  = скрин меню "Настройки" =
-
- 
 <img width="266" height="412" alt="изображение" src="https://github.com/user-attachments/assets/3a66a41b-c08c-484b-9dbe-fb9726baa29a" />
-
-
 = скрин меню "Эффекты голоса" =
-
-
 <img width="572" height="442" alt="изображение" src="https://github.com/user-attachments/assets/8462b5a2-8b62-473c-8e4f-f4173c412235" />
-
-
-<img width="3840" height="2708" alt="64" src="https://github.com/user-attachments/assets/f702a3ed-ff89-4ae8-a54f-0bf69c067868" />
-
-
-
-
-
-
+<img width="3840" height="2708" alt="64 1" src="https://github.com/user-attachments/assets/3c0bc68d-4c06-4fa3-a29a-47d3026697db" />
 
 <details>
 <summary>🔍 Дополнительная информация для поиска / SEO Keywords / FAQ</summary>
