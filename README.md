@@ -1,5 +1,6 @@
 <img width="1140" height="804" alt="изображение" src="https://github.com/user-attachments/assets/6903b838-bdab-4369-8afb-dbc705913380" />
-<img width="3840" height="2708" alt="64 3" src="https://github.com/user-attachments/assets/59417af3-da97-4cad-a2f0-a35a650cd62a" />
+<img width="3840" height="2708" alt="64 5" src="https://github.com/user-attachments/assets/77803909-08d3-4f6c-90ad-9b9aaa6ba46e" />
+
 
 <img width="1117" height="904" alt="Screenshot_444" src="https://github.com/user-attachments/assets/66bfd138-b3a9-4c4b-824e-37a412ea95be" />
  = скрин меню "Настройки" =
