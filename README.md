@@ -15,9 +15,10 @@
 
 = скрин меню "Таймера" =
 
-<img width="651" height="375" alt="изображение" src="https://github.com/user-attachments/assets/128bf0d2-4d6f-4770-8da6-17fadbdc042d" />
+<img width="3840" height="2708" alt="64" src="https://github.com/user-attachments/assets/f702a3ed-ff89-4ae8-a54f-0bf69c067868" />
 
-<img width="1189" height="840" alt="изображение" src="https://github.com/user-attachments/assets/e2fda7ad-8854-4de6-82b9-c07ee09d09e4" />
+
+
 
 
 
