@@ -4,7 +4,8 @@
 <img width="266" height="412" alt="изображение" src="https://github.com/user-attachments/assets/3a66a41b-c08c-484b-9dbe-fb9726baa29a" />
 = скрин меню "Эффекты голоса" =
 <img width="572" height="442" alt="изображение" src="https://github.com/user-attachments/assets/8462b5a2-8b62-473c-8e4f-f4173c412235" />
-<img width="3840" height="2708" alt="64 1" src="https://github.com/user-attachments/assets/3c0bc68d-4c06-4fa3-a29a-47d3026697db" />
+<img width="3840" height="2708" alt="64 2" src="https://github.com/user-attachments/assets/b0424ab0-7b8e-427f-bae8-a278be685871" />
+
 
 <details>
 <summary>🔍 Дополнительная информация для поиска / SEO Keywords / FAQ</summary>
