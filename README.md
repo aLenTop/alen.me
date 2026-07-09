@@ -17,7 +17,8 @@
 
 <img width="651" height="375" alt="изображение" src="https://github.com/user-attachments/assets/128bf0d2-4d6f-4770-8da6-17fadbdc042d" />
 
-<img width="1231" height="869" alt="изображение" src="https://github.com/user-attachments/assets/67b400ae-7570-4be2-aeae-7624530f7099" />
+<img width="1189" height="840" alt="изображение" src="https://github.com/user-attachments/assets/e2fda7ad-8854-4de6-82b9-c07ee09d09e4" />
+
 
 
 
