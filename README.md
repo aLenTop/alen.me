@@ -6,7 +6,7 @@
 
 <img width="3840" height="2708" alt="64 5" src="https://github.com/user-attachments/assets/77803909-08d3-4f6c-90ad-9b9aaa6ba46e" />
 
-
+nvvbvb
 <img width="1117" height="904" alt="Screenshot_444" src="https://github.com/user-attachments/assets/66bfd138-b3a9-4c4b-824e-37a412ea95be" />
 --------
 <img width="1236" height="873" alt="изображение" src="https://github.com/user-attachments/assets/1b7a7391-8a15-4d78-88be-3b0d95dcbc37" />
