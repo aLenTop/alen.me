@@ -8,8 +8,10 @@
 = скрин меню "Эффекты голоса" =
 <img width="572" height="442" alt="изображение" src="https://github.com/user-attachments/assets/8462b5a2-8b62-473c-8e4f-f4173c412235" />
 <img width="1175" height="833" alt="изображение" src="https://github.com/user-attachments/assets/37170dce-519c-4f78-a500-2ad033e9df0e" />
-<img width="3840" height="2708" alt="64 2" src="https://github.com/user-attachments/assets/b0424ab0-7b8e-427f-bae8-a278be685871" />
+---
 <img width="1137" height="802" alt="Screenshot_304" src="https://github.com/user-attachments/assets/ba96a11e-3e61-4101-99f6-a53852cb15bc" />
+---
+<img width="3840" height="2708" alt="64 2" src="https://github.com/user-attachments/assets/b0424ab0-7b8e-427f-bae8-a278be685871" />
 
 
 <details>
