@@ -8,10 +8,6 @@
 
 
 <img width="1117" height="904" alt="Screenshot_444" src="https://github.com/user-attachments/assets/66bfd138-b3a9-4c4b-824e-37a412ea95be" />
- = скрин меню "Настройки" =
-<img width="266" height="412" alt="изображение" src="https://github.com/user-attachments/assets/3a66a41b-c08c-484b-9dbe-fb9726baa29a" />
-= скрин меню "Эффекты голоса" =
-<img width="572" height="442" alt="изображение" src="https://github.com/user-attachments/assets/8462b5a2-8b62-473c-8e4f-f4173c412235" />
 --------
 <img width="1236" height="873" alt="изображение" src="https://github.com/user-attachments/assets/1b7a7391-8a15-4d78-88be-3b0d95dcbc37" />
 --------
